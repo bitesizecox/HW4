@@ -11,7 +11,7 @@ Github ID:
 Person B:
 Name: Pokuan Ho (Paul)
 Uniqname: hopokuan
-Section Name: 008
+Section Number: 008
 Github ID: p1ho
 
 Person C:
