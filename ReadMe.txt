@@ -4,9 +4,9 @@ HW4 -- Magic 8 Ball
 
 Person A:
 Name: Meaghan Cox
-Uniqname:
+Uniqname: mkcox
 Section Number: 008
-Github ID: 
+Github ID: bitesizecox
 
 Person B:
 Name: Pokuan Ho (Paul)
