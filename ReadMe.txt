@@ -9,6 +9,10 @@ Meaghan Cox
 
 
 Person B:
+Name: Pokuan Ho (Paul)
+Uniqname: hopokuan
+Section Name: 008
+Github ID: p1ho
 
 Person C:
 Name: Yuanting Lin
